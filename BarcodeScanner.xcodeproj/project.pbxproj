@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4914FEEC2AB8BE0A00B68D91 /* ScannerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4914FEEB2AB8BE0A00B68D91 /* ScannerVC.swift */; };
 		49BD6F7C2AB8226900B4EF3F /* BarcodeScannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49BD6F7B2AB8226900B4EF3F /* BarcodeScannerApp.swift */; };
 		49BD6F7E2AB8226900B4EF3F /* BarcodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49BD6F7D2AB8226900B4EF3F /* BarcodeScannerView.swift */; };
 		49BD6F802AB8226A00B4EF3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49BD6F7F2AB8226A00B4EF3F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4914FEEB2AB8BE0A00B68D91 /* ScannerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerVC.swift; sourceTree = "<group>"; };
 		49BD6F782AB8226900B4EF3F /* BarcodeScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarcodeScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49BD6F7B2AB8226900B4EF3F /* BarcodeScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerApp.swift; sourceTree = "<group>"; };
 		49BD6F7D2AB8226900B4EF3F /* BarcodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				49BD6F7D2AB8226900B4EF3F /* BarcodeScannerView.swift */,
 				49BD6F7F2AB8226A00B4EF3F /* Assets.xcassets */,
 				49BD6F812AB8226A00B4EF3F /* Preview Content */,
+				4914FEEB2AB8BE0A00B68D91 /* ScannerVC.swift */,
 			);
 			path = BarcodeScanner;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4914FEEC2AB8BE0A00B68D91 /* ScannerVC.swift in Sources */,
 				49BD6F7E2AB8226900B4EF3F /* BarcodeScannerView.swift in Sources */,
 				49BD6F7C2AB8226900B4EF3F /* BarcodeScannerApp.swift in Sources */,
 			);
